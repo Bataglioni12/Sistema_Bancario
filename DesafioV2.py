@@ -160,3 +160,8 @@ def main():
             
         elif opcao == "lc":
             listar_contas(listar_contas.contas)
+
+        else:
+            break
+        
+main()
